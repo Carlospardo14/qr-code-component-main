@@ -36,6 +36,6 @@ Qr code component solution with bootstrap
 
 ## Author
 
-- Website - [Carlos Pardo](Carlospardo14.github.io)
+- Website - [Carlos Pardo](https://carlospardo14.github.io/)
 - Frontend Mentor - [@Carlospardo14](https://www.frontendmentor.io/profile/Carlospardo14)
 
