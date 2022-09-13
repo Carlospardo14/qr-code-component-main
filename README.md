@@ -23,8 +23,8 @@ Qr code component solution with bootstrap
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://carlospardo14.github.io/qr-code-component-main/)
+- Live Site URL: (https://github.com/Carlospardo14/qr-code-component-main)
 
 
 ### Built with
